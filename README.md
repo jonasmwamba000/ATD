@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - [@SanMwamb6584
 ](https://twitter.com/jonasmwamba000@gmail.com) - jonasmwamba000@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/GITHUB: https://github.com/GITHUB: https://github.com/GITHUB: https://github.com/jonasmwamba000/your-repo-name)
 
 ## Acknowledgments
 
@@ -196,7 +196,7 @@ build/
 ```
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 Your GITHUB: https://github.com/jonasmwamba000
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -290,7 +290,7 @@ Thank you for contributing!
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GITHUB: https://github.com/jonasmwamba000/your-repo-name.git"
+    "url": "git+https://github.com/GITHUB: https://github.com/ GITHUB: https://github.com/jonasmwamba000/your-repo-name.git"
   },
   "keywords": [
     "keyword1",
@@ -300,9 +300,9 @@ Thank you for contributing!
   "author": "Your Name < jonasmwamba000@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GITHUB: https://github.com/jonasmwamba000/your-repo-name/issues"
+    "url": "https://github.com/GITHUB: https://github.com/ GITHUB: https://github.com/jonasmwamba000/your-repo-name/issues"
   },
-  "homepage": "https://GITHUB: https://github.com/jonasmwamba000/yourusername/your-repo-name#readme",
+  "homepage": "https://GITHUB: https://github.com/jonasmwamba000/GITHUB: https://github.com/GITHUB: https://github.com/jonasmwamba000/your-repo-name#readme",
   "dependencies": {
     "express": "^4.18.0"
   },
